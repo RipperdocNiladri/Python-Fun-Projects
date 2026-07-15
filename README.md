@@ -163,7 +163,7 @@ It motivates me to keep building more projects!
 
 **Niladri**
 
-GitHub: @RipperdocNiladri
+* GitHub: **[@RipperdocNiladri](https://github.com/RipperdocNiladri)**
 
 ---
 

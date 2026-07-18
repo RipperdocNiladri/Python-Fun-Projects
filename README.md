@@ -65,7 +65,6 @@ As I continue learning Python, this repository will keep growing. 🚀
 - 🎲 Dice Roller
 - 🔐 Password Generator
 - ⏰ Alarm Clock
-- 🎯 Number Guessing Game
 - ✊ Rock Paper Scissors
 - 📅 Age Calculator
 - ⌚ Digital Clock

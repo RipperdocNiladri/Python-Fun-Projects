@@ -109,6 +109,31 @@ Example:
 python calculator.py
 ```
 
+## 📂 Repository Structure
+
+```text
+Python-Fun-Projects/
+│
+├── Decimal_Binary_Desimal/
+│   └── converter.py
+│
+├── Number_Guessing_Game/
+│   ├── game.py
+│   └── README.md
+│
+├── Robot_Name_Generator/
+│   └── robot_name_generator.py
+│
+├── Simple_Calculator/
+│   └── calculator.py
+│
+├── song_playlist_generator/
+│   ├── song_plalist.py
+│   └── song_playlist_tkinter.py
+│
+└── README.md
+```
+
 ## 🎯 Purpose
 
 The goal of this repository is to:

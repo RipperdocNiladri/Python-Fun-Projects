@@ -63,7 +63,6 @@ As I continue learning Python, this repository will keep growing. 🚀
 
 - 🧪 Scientific Calculator
 - 🎲 Dice Roller
-- 🔐 Password Generator
 - ⏰ Alarm Clock
 - ✊ Rock Paper Scissors
 - 📅 Age Calculator
@@ -119,6 +118,11 @@ Python-Fun-Projects/
 │
 ├── Number_Guessing_Game/
 │   ├── game.py
+│   └── README.md
+│
+├── Password_Generator/
+│   ├── P-generator_tkinter.py
+│   ├── P-generator.py
 │   └── README.md
 │
 ├── Robot_Name_Generator/
